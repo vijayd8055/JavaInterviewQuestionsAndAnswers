@@ -1,7 +1,5 @@
 # Java Interview Questions and Answers
 
-[![Image](https://www.springboottutorial.com/images/Course-Java-Interview-Guide-200-Interview-Questions-and-Answers.png "Java Interview Guide : 200+ Interview Questions and Answers")](https://www.udemy.com/course/java-interview-questions-and-answers/)
-
 
 ## Expectations
 - Good Java Knowledge
